@@ -7,7 +7,7 @@ function SimpleModal({ onClose, children }) {
         className="modal-backdrop"
         onClick={onClose}
         role="button"
-        tabIndex="0"
+        tabIndex={0}
         aria-label="모달 닫기"
         onKeyDown={(e) => {
           if (e.key === 'Enter' || e.key === ' ') onClose()

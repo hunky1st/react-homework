@@ -17,7 +17,7 @@ pnpm-lock.yaml
 .DS_Store
 
 # VS Code
-# .vscode/
+.vscode/
 
 # 로그 파일
 *.log

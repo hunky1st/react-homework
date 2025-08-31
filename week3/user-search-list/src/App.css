@@ -1,0 +1,14 @@
+.search-form {
+  margin-bottom: 1rem;
+}
+.card-list {
+  list-style: none;
+  padding: 0;
+}
+.card {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+  background-color: white;
+}
